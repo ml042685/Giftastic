@@ -1,0 +1,27 @@
+.title-search-bar {
+    text-align: center;
+    .search-btn {
+        margin: 3px;
+    }
+    #submit,
+    .search-bar {
+        margin-top: 0.4rem;
+    }
+}
+
+#results {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.gif-box {
+    margin: 0.5rem;
+    display: inline-block;
+    border: 1px solid black;
+    height: auto;
+    width: auto;
+    img {
+        display: block;
+    }
+
+}
