@@ -38,7 +38,13 @@ In this assignment, you'll use the GIPHY API to make a dynamic web page that pop
 8. **Rejoice**! You just made something really cool.
 
 
-#### Click here for Giftastic
+### Technologies
+* HTML5
+* CSS3
+* jQuery
+* Bootstrap
+
+### Click here for Giftastic
 
 https://ml042685.github.io/Giftastic/
 
